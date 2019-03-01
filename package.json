@@ -1,0 +1,17 @@
+{
+  "name": "vue-notes-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"browser-sync start --server --files='index.html,*.css,*.js' "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.code.tencent.com:testpro/vue-notes-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
